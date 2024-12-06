@@ -1,0 +1,9 @@
+{
+    "name": "Hasura Development Console",
+    "version": "1.0.0",
+    "description": "Custom development console assets for Hasura",
+    "assets": [
+        "index.html",
+        "custom.js"
+    ]
+}
